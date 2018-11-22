@@ -1,6 +1,6 @@
 # Bootstrap React-Native
 
-Script built to make React-Native development easier.
+Script built to make React-Native development easier. Based on https://github.com/App2Sales/a2s-cli
 
 # How to use
 
