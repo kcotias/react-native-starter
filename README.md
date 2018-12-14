@@ -7,7 +7,7 @@ Script built to make React-Native development easier. Based on https://github.co
 Clone: 
 
 ```Shell
-git clone https://github.com/kcotias/rn-starter
+git clone https://github.com/kcotias/react-native-starter.git
 ``` 
 
 run the script: 
